@@ -1,0 +1,12 @@
+2023-01-29T06:03:54.360Z [my-bank-api] info: API Started and File Created!
+2023-01-29T06:04:09.919Z [my-bank-api] info: GET /account
+2023-01-29T06:04:31.019Z [my-bank-api] info: POST /account - {"id":1,"name":"Melissa","balance":200}
+2023-01-29T06:05:02.659Z [my-bank-api] info: GET /account:id
+2023-01-29T06:05:07.670Z [my-bank-api] info: GET /account
+2023-01-29T06:05:39.718Z [my-bank-api] info: POST /account - {"id":2,"name":"Dieisson","balance":200}
+2023-01-29T06:05:56.109Z [my-bank-api] info: GET /account
+2023-01-29T06:06:14.356Z [my-bank-api] info: PUT /account - {"id":2,"name":"Dieisson Narde","balance":2000}
+2023-01-29T06:06:27.952Z [my-bank-api] info: PATCH /account/updateBalance - {"id":1,"balance":2500}
+2023-01-29T06:06:37.525Z [my-bank-api] info: GET /account:id
+2023-01-29T06:06:46.242Z [my-bank-api] info: DELETE /account:id - 2
+2023-01-29T06:07:37.839Z [my-bank-api] info: PUT /account - {"id":1,"name":"Dieisson Narde","balance":2000}
