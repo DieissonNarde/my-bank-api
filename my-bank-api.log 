@@ -10,3 +10,4 @@
 2023-01-29T06:06:37.525Z [my-bank-api] info: GET /account:id
 2023-01-29T06:06:46.242Z [my-bank-api] info: DELETE /account:id - 2
 2023-01-29T06:07:37.839Z [my-bank-api] info: PUT /account - {"id":1,"name":"Dieisson Narde","balance":2000}
+2023-01-29T16:24:23.342Z [my-bank-api] info: API Started!
